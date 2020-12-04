@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders show-item component 1`] = `
+<a
+  href="/shows/function () {
+        return fn.apply(this, arguments);
+      }"
+>
+  <div
+    class="show-item"
+  >
+    <img
+      alt=""
+      class="image"
+      style="background-image: url(undefined);"
+    />
+    <div
+      class="show-item-footer"
+    >
+      <span
+        class="name"
+      >
+        Amazing show
+      </span>
+    </div>
+  </div>
+</a>
+`;

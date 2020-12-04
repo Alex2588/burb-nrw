@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders show info correctly if we pass show object as a prop 1`] = `
+<div
+  class="item-info"
+>
+  <div
+    class="item-name"
+  >
+    <h2>
+      Great show
+    </h2>
+  </div>
+  <div
+    class="item-content"
+  >
+    <div
+      class="item-image"
+    >
+      <img
+        alt=""
+      />
+    </div>
+    <div
+      class="item-summary"
+    >
+      This is an amazing show
+    </div>
+  </div>
+</div>
+`;

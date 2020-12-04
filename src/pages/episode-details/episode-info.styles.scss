@@ -1,0 +1,8 @@
+.episode-info {
+  width: 60%;
+
+  @media (max-width: 600px) {
+    width: 90%;
+    margin: 10px;
+  }
+}
