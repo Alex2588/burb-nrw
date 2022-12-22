@@ -31,5 +31,3 @@ There are only some components/reducers covered with tests. I decided not to tes
 ### Docs
 The whole project was written in typescript, which gives a clear image of input parameters and return types of different functions, methods, etc. 
 
-### Shows page
-This page was added as an example of simple shows collection and wasn't a part of the original test task.That's why it doesn't have pagination, infinite scroll or any similar technique.
